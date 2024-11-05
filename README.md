@@ -12,14 +12,10 @@ PyPDF2 library
 Installation
 You can install the required library using pip:
 
-bash
-Copy code
 pip install PyPDF2
 Code Implementation
 The following code demonstrates how to merge multiple PDFs:
 
-python
-Copy code
 import PyPDF2
 
 pdf = ['1.pdf', '2.pdf', '3.pdf']  # You can add many PDFs with their correct names
